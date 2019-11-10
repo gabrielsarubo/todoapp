@@ -1,3 +1,5 @@
+A ToDo App developed during the React & Redux Complete tutorial playlist on The Net Ninja YouTube channel. (09 of November of 2019)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
